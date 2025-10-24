@@ -1,5 +1,5 @@
 
-# PHP Licensing servcer ![Made in France](https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/FR.svg)
+# PHP Licensing server ![Made in France](https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/FR.svg)
 
 [![License: MPL-2.0](https://img.shields.io/badge/License-MPL--2.0-orange.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
 
