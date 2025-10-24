@@ -1,7 +1,7 @@
 
 # PHP Licensing servcer ![Made in France](https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/FR.svg)
 
-![GitHub License](https://img.shields.io/github/license/Ohw2222/simple-php-licenses-server)
+[![License: MPL-2.0](https://img.shields.io/badge/License-MPL--2.0-orange.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
 
 ![English](https://raw.githubusercontent.com/yammadev/flag-icons/master/png/GB.png)
 This is a website with an API for you to control the licenses you create, your customer base, and so on. It is able to handle multiple softwares and multiple versions.
@@ -59,7 +59,7 @@ Probablement pas. J'ai créé cet outil en fonction de mes besoins, et je le par
 
 ![Made in France](https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/FR.svg)
 
-![GitHub License](https://img.shields.io/github/license/Ohw2222/simple-php-licenses-server)
+[![License: MPL-2.0](https://img.shields.io/badge/License-MPL--2.0-orange.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ohw2222/simple-php-licenses-server)
 
